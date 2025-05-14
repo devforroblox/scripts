@@ -1,0 +1,4 @@
+local NotificationSystem = loadstring(game:HttpGet("https://raw.githubusercontent.com/devforroblox/rubyhubv2util/refs/heads/main/notif",true))() -- ui/source (open src)
+
+
+NotificationSystem.log("text") -- example
